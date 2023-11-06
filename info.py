@@ -1,2 +1,2 @@
-#this is a sofware for calling the ID parameters and restoring them.
-import numpy
+this script is for calling the  undulator parameters from the archiver system of the BESSYII machine and restoring them.
+
